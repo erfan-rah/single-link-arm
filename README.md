@@ -1,5 +1,4 @@
-# single-link-arm
-*Single-DOF Robotic Manipulator*
+# Single-DOF Robotic Manipulator
 
 For my Industrial Internet of Things (IIoT) course project, I
 designed a controller by solving a linear matrix inequality (LMI),
